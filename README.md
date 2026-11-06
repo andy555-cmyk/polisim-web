@@ -6,8 +6,8 @@
 
 [Releases](https://github.com/andy555-cmyk/polisim-web/releases/latest)에서 받는다
 
-- 맥: `POLISIM-x.y.z-mac-arm64.dmg` (애플 실리콘)
-- 윈도우: `POLISIM-x.y.z-win-x64.exe`
+- 맥: `POLISIM-mac-arm64.dmg` (애플 실리콘)
+- 윈도우: `POLISIM-windows-x64-setup.exe`
 
 설치한 뒤에는 앱이 새 판을 스스로 확인하고 서명을 대조한 뒤 바꾼다
 
